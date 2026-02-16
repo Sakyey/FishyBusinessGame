@@ -1,0 +1,18 @@
+﻿# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# Optional: Rider / VSCode
+.vscode/
+*.code-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
